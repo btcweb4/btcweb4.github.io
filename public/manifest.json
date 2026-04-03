@@ -1,6 +1,6 @@
 {
-  "name": "BTCBA",
-  "short_name": "BTCBA",
+  "name": "btcweb4",
+  "short_name": "btcweb4",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
